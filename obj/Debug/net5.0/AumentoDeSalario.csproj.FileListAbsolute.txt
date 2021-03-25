@@ -1,0 +1,16 @@
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.exe
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.deps.json
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.json
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.runtimeconfig.dev.json
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.dll
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\ref\AumentoDeSalario.dll
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\bin\Debug\net5.0\AumentoDeSalario.pdb
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csprojAssemblyReference.cache
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfoInputs.cache
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.AssemblyInfo.cs
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.dll
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\ref\AumentoDeSalario.dll
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.pdb
+D:\Bootcamp LocalizaLabs .NET\DESAFIOS\AumentoDeSalario\AumentoDeSalario\obj\Debug\net5.0\AumentoDeSalario.genruntimeconfig.cache
