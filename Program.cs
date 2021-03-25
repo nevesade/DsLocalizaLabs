@@ -18,7 +18,7 @@ class AumentoDeSalario
         double percentual = 0;
 
         salario = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
-        //salario.ToString("F2", CultureInfo.InvariantCulture);
+
 
 
 
@@ -28,41 +28,42 @@ class AumentoDeSalario
             return;
         }
 
-        else if (salario > 0.00 && salario <= 400.00)
+        else if (salario <= 400.00)
         {
-            reajuste = salario * 0.15;
+
+            percentual = 15;
+            reajuste = salario * (percentual / 100);
             novoSalario = salario + reajuste;
-            percentual = ((novoSalario - salario) * 100) / salario;
+
 
         }
-        else if (salario > 400.00 && salario <= 800.00)
+        else if (salario <= 800.00)
         {
-            reajuste = salario * 0.12;
+            percentual = 12;
+            reajuste = salario * (percentual / 100);
             novoSalario = salario + reajuste;
-            percentual = ((novoSalario - salario) * 100) / salario;
-            
+
         }
-        else if (salario > 800.00 && salario <= 1200.00)
+        else if (salario <= 1200.00)
         {
-            reajuste = salario * 0.10;
+            percentual = 10;
+            reajuste = salario * (percentual / 100);
             novoSalario = salario + reajuste;
-            percentual = ((novoSalario - salario) * 100) / salario;
-           
+
         }
-        else if (salario > 1200.00 && salario <= 2000.00)
+        else if (salario <= 2000.00)
         {
-            reajuste = salario * 0.07;
+            percentual = 7;
+            reajuste = salario * (percentual / 100);
             novoSalario = salario + reajuste;
-            percentual = ((novoSalario - salario) * 100) / salario;
-            
         }
         else
         {
-            //complete o codigo
-            reajuste = salario * 0.04;
+
+            percentual = 4;
+            reajuste = salario * (percentual / 100);
             novoSalario = salario + reajuste;
-            percentual = ((novoSalario - salario) * 100) / salario;
-            
+
         }
 
 
